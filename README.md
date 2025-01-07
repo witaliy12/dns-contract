@@ -1,4 +1,4 @@
-# TON DNS Smart Contracts
+4e0a87e29b3a1ace54ec8b1393e8b69f548c423d# TON DNS Smart Contracts
 
 Smart contracts of ".ton" zone.
 
